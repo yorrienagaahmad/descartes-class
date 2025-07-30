@@ -1,1 +1,1 @@
-# descartes-class
+# descartez-class
